@@ -1,4 +1,51 @@
-# Plataforma de ventas en línea
+
+# LA TIENDITA DE DON PPK - ECOMMERCE
+
+_Emprendimiento autogestionado de Trilce. Venta de productos textiles estampados con humor negro, sátira politica,
+tweets, frases y memes, muchos memes._
+
+## 1. OBJETIVOS
+
+Crear un sitio web que incremente las ventas de nuestro cliente, manteniendo el contacto amigable y humorístico
+del cliente con sus usuarios. Un sitio web donde se encuentren los detalles de cada producto para evitar dudas
+al momento de la compra y facilitar la experiencia del usuario.
+
+## 2. PROBLEMAS IDENTIFICADOS 📄
+Dentro de los principales problemas extraídos de las entrevista con usuario y cliente tenemos los siguientes:
+ ### Cliente:
+ * Saturación de mensajes con los usuarios por atender distintos productos en venta. No llega a contactar a todos
+ y pierde algunas ventas
+ * Poca disponibilidad de tiempo para estar conectada a redes sociales todo el tiempo.
+
+ ### Usuario:
+ * No suele encontrar información sobre un producto de su interés y tiene la necesidad de escribir un DM en el perfil
+ de instagram para poder tener una información completa y realizar su compra satisfactoriamente.
+ * Les es tedioso contactar el punto de entrega por el tema de coordinación marca-cliente.
+
+ ## 3. PÚBLICO OBJETIVO 📌
+  ### USER PERSONA
+  ![web](images/userpersona.png)
+  ### COSTUMER JOUNEY MAP
+  ![web](images/cjm.png)
+  ![web](images/paingains.png)
+
+## 4. DEFINICIÓN DE LA SOLUCIÓN 🛠️
+En base a las distintas entrevistas, y con apoyo del benchmark de navegación y visual. Llegamos a crear un sitio web
+con un tono humorístico y navegabilidad amigable, práctica y sencilla de entender.
+
+## 5. PROTOTIPO NAVEGABLE
+### PROTOTIPO NAVEGABLE
+[Link de prototipo navegable](https://www.figma.com/proto/3OkfYXTrQss4O8YMvn4pY0/Prototipo-final?node-id=1%3A2&scaling=scale-down&hotspot-hints=0)
+
+## 6. Explicación de cómo los contenidos y funcionalidades responden a los objetivos del proyecto.
+## 7. Explicación de cómo los contenidos y funcionalidades resuelven cada uno de las necesidades del usuario final.
+## 8. Link de Zeplin, InVision inspects o Marvel Hand-offs para compartir tus diseños con desarrolladores.
+## 9. LINK DE CARPETA DEL DRIVE 📄
+ [Link del Drive](https://drive.google.com/drive/folders/1KEtYo-u2GFWUBpw9tDdNfNEiggv0-hLV?usp=sharing)
+
+
+
+<!-- # Plataforma de ventas en línea
 
 ## Índice
 
@@ -295,4 +342,4 @@ alineación, jerarquía, entre otros.
 * En lugar de usar Github para documentar tu proceso de trabajo, documéntalo en
   su propia web, puedes usar Wix, Instapage, Squarespace, Google Sites o crear
   tu propia web desde 0.
-* Escribe un post en Medium contando tu proceso de investigación.
+* Escribe un post en Medium contando tu proceso de investigación. -->
