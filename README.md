@@ -1,14 +1,11 @@
 
 # LA TIENDITA DE DON PPK - ECOMMERCE
 
-_Emprendimiento autogestionado de Trilce. Venta de productos textiles estampados con humor negro, sátira politica,
-tweets, frases y memes, muchos memes._
+_Emprendimiento autogestionado de Trilce Rodriguez. Venta de productos textiles estampados con humor negro, sátira politica, tweets, frases y memes, muchos memes._
 
 ## 1. OBJETIVOS
 
-Crear un sitio web que incremente las ventas de nuestro cliente, manteniendo el contacto amigable y humorístico
-del cliente con sus usuarios. Un sitio web donde se encuentren los detalles de cada producto para evitar dudas
-al momento de la compra y facilitar la experiencia del usuario.
+Crear un sitio web que incremente las ventas de nuestro cliente, manteniendo el contacto amigable y humorístico del cliente con sus usuarios. Un sitio web donde se encuentren los detalles de cada producto para evitar dudas al momento de la compra y facilitar la experiencia del usuario.
 
 ## 2. PROBLEMAS IDENTIFICADOS 📄
 Dentro de los principales problemas extraídos de las entrevista con usuario y cliente tenemos los siguientes:
@@ -38,11 +35,23 @@ con un tono humorístico y navegabilidad amigable, práctica y sencilla de enten
 [Link de prototipo navegable](https://www.figma.com/proto/3OkfYXTrQss4O8YMvn4pY0/Prototipo-final?node-id=1%3A2&scaling=scale-down&hotspot-hints=0)
 
 ## 6. Explicación de cómo los contenidos y funcionalidades responden a los objetivos del proyecto.
+En base a nuestro affinity map y mapa de prioridades. Se extrajo distintos _Problems Statemens_ para realizar nuestra web respondiendo a las necesidades directas de nuestros usuarios.
+![web](images/afmap.png)
+![web](images/mapaprioridad.png)
+
+En nuestra wen
+
 ## 7. Explicación de cómo los contenidos y funcionalidades resuelven cada uno de las necesidades del usuario final.
+Los usuarios 
 ## 8. Link de Zeplin, InVision inspects o Marvel Hand-offs para compartir tus diseños con desarrolladores.
 ## 9. LINK DE CARPETA DEL DRIVE 📄
  [Link del Drive](https://drive.google.com/drive/folders/1KEtYo-u2GFWUBpw9tDdNfNEiggv0-hLV?usp=sharing)
 
+ ## 10. NEXT STEPS 📝
+  * Agregar un item de filtros
+  * Agregar opción de Quejas y Devoluciones
+  * Agregar opción de búsqueda.
+  * Sugerencias de productos relacionados
 
 
 <!-- # Plataforma de ventas en línea
