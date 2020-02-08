@@ -36,14 +36,14 @@ con un tono humorístico y navegabilidad amigable, práctica y sencilla de enten
 
 ## 6. Explicación de cómo los contenidos y funcionalidades responden a los objetivos del proyecto.
 En base a nuestro affinity map y mapa de prioridades. Se extrajo distintos _Problems Statemens_ para realizar nuestra web respondiendo a las necesidades directas de nuestros usuarios.
-![web](images/afmap.png)
-![web](images/mapaprioridad.png)
 
-En nuestra wen
+![web](images/afmap.PNG)
+![web](images/mapaprioridad.PNG)
 
-## 7. Explicación de cómo los contenidos y funcionalidades resuelven cada uno de las necesidades del usuario final.
-Los usuarios 
+
 ## 8. Link de Zeplin, InVision inspects o Marvel Hand-offs para compartir tus diseños con desarrolladores.
+* [Link del Zeplin](https://app.zeplin.io/project/5e1510c82dd91e53adf69327)
+* [Link de Loom](https://app.zeplin.io/project/5e1510c82dd91e53adf69327)
 ## 9. LINK DE CARPETA DEL DRIVE 📄
  [Link del Drive](https://drive.google.com/drive/folders/1KEtYo-u2GFWUBpw9tDdNfNEiggv0-hLV?usp=sharing)
 
